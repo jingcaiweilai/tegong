@@ -1,0 +1,3 @@
+int score;
+int distance;
+
